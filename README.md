@@ -68,7 +68,7 @@ This repository is licensed under the **MIT License**.
 |-----------|--------|---------|
 | Anti-Spoofing | minivision-ai/Silent-Face-Anti-Spoofing | MIT |
 | FaceNet | nyoki-mtl/keras-facenet | MIT |
-| YOLOv9/YOLOv10 | Ultralytics | AGPL-3.0 |
+| YOLOv8/YOLOv10 | Ultralytics | AGPL-3.0 |
 
 If you use this project in your research or product, please cite the original sources as applicable.
 
