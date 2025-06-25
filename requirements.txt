@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+tensorflow==2.14.0
+keras-facenet
+mtcnn
+ultralytics
+scikit-learn
+Pillow
